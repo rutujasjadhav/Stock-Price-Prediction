@@ -1,0 +1,4 @@
+Config,RMSE,MAE
+Without Sentiment,0.019402,0.013967
+With Sentiment,0.019402,0.013967
+Delta,-0.0,-0.0

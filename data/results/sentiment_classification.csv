@@ -1,0 +1,4 @@
+Config,Accuracy,F1
+Without Sentiment,0.503384,0.489641
+With Sentiment,0.503384,0.489641
+Delta,0.0,0.0

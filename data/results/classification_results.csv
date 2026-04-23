@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1
+Logistic Regression,0.5034,0.5138,0.5677,0.4896
+SVM (RBF),0.5039,0.5387,0.5096,0.4799
+DNN (PyTorch),0.4783,0.3884,0.2307,0.2119

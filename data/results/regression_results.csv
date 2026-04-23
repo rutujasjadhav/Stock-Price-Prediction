@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Linear Reg + Poly,0.028583,0.020705
+Random Forest,0.019402,0.013967
+DNN (PyTorch),0.021719,0.016313
